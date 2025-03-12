@@ -2,7 +2,9 @@
 
 **`Apaixonada por Tecnologia`**
 
-Me chamo Kiara Barrios, tenho 24 anos e sou natural de Buenos Aires porem atualmente moro em Campinas interior de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na AMPLI e Engenharia da Computação na USF. 
+Me chamo Kiara Barrios, tenho 24 anos e sou natural de Buenos Aires porem moro em Campinas interior de São Paulo. 
+
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na AMPLI e Engenharia da Computação na USF. 
 
 
 
