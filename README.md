@@ -76,8 +76,8 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na AMPLI e Eng
 />
 <img
    align="left" 
-    alt="Cplusplus" 
-    title="Cplusplus"
+    alt="Kotlin" 
+    title="Kotlin"
     width="30px" 
     style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
 />
