@@ -79,23 +79,41 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na AMPLI e Eng
     alt="Kotlin" 
     title="Kotlin"
     width="30px" 
-    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
 />
 <img
    align="left" 
     alt="SQL" 
     title="SQL"
     width="30px" 
-    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
 <img
    align="left" 
     alt="NetCore" 
     title="Netcore"
     width="30px" 
-    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
 />
-
+<img
+   align="left" 
+    alt="Emacs" 
+    title="Emacs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/emacs/emacs-original.svg"
+    />
+<img
+   align="left" 
+    alt="Emacs" 
+    title="Emacs"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg"
+    />
 
 </p>
 
