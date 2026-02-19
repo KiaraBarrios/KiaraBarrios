@@ -44,11 +44,16 @@ Sou uma entusiasta da tecnologia de 25 anos, natural de Buenos Aires e atualment
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Atividade e Conquistas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KiaraBarrios&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiaraBarrios&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KiaraBarrios&theme=dracula&no-bg=true&margin-w=15" alt="Troféus de Kiara" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KiaraBarrios&theme=dracula&area=true" width="100%" alt="Gráfico de Atividade" />
 </div>
 
 ---
