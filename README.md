@@ -36,7 +36,7 @@ Sou uma entusiasta da tecnologia de 25 anos, natural de Buenos Aires e atualment
 
 ### 📂 Projetos em Destaque
 
-#### 🏆 [TouchPay Services](https://github.com/KiaraBarrios) 
+#### 🏆 [Sistema de Pagamento Services]([https://github.com/KiaraBarrios](https://github.com/KiaraBarrios/sistema-de-pagamento-demo)) 
 *Solução vencedora do Hackathon amLabs para otimização de checkouts.*
 - **Foco Dev:** Criação de MVP focado em conversão e UX.
 - **Foco QA:** Validação de fluxos críticos de pagamento e responsividade.
