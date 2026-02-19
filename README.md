@@ -20,8 +20,8 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na USF - Campi
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="CSS3" 
+    title="CSS3"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
@@ -41,14 +41,6 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na USF - Campi
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img
-    align="left" 
-    alt="Css" 
-    title="Css"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 <img
     align="left" 
@@ -75,10 +67,10 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na USF - Campi
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
 <img
-  align="left" 
+    align="left" 
     alt="FireBase" 
     title="FireBase"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
+/>       
