@@ -44,20 +44,6 @@ Sou uma entusiasta da tecnologia de 25 anos, natural de Buenos Aires e atualment
 
 ---
 
-### 📊 Atividade e Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KiaraBarrios&theme=dracula&no-bg=true&margin-w=15" alt="Troféus de Kiara" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KiaraBarrios&theme=dracula&area=true" width="100%" alt="Gráfico de Atividade" />
-</div>
-
----
-
 ### 📫 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kiarabarrios)
